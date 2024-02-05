@@ -9,4 +9,4 @@ os.chdir('C:/Users/Deepu/AI and Python/This-Ease')
 st.title("This-Ease: An app to predict any disease using Machine Learning")
 
 st.write("Kindly navigate to the '❤️Hearts' page to predict the presence of heart disease")
-st.write("Others are still under development⚙️...")
+st.title("Others are still under development⚙️...")
